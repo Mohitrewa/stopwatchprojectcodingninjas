@@ -11,3 +11,4 @@ Features:
 <i><b>Stop Button:</b> Stop timer once clicked on the stop button</i>
 
   <i><b>Reset Button:</b> On click of reset stop the watch (if already started) and set timer as 0</i>
+  https://mohitrewa.github.io/stopwatchprojectcodingninjas/
